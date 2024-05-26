@@ -88,7 +88,7 @@ sudo apt install python3-pip
 pip3 install pykafka
 ```
 ```
-pip3 install paho-mqtt
+pip3 install paho-mqtt==1.6.1
 ```
 
 ### Step 5.2: Setup Cassandra Instance:  
@@ -127,7 +127,7 @@ git clone https://github.com/mpatel6262/IoTPipelineProject.git
 sudo apt install python3-pip
 ```
 ```
-pip3 install paho-mqtt
+pip3 install paho-mqtt==1.6.1
 ```
 ```
 pip3 install flask
